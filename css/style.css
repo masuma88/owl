@@ -1,0 +1,19 @@
+img{
+    height: 300px;
+}
+.ss{
+    margin: 5px;
+    padding: 5px;
+    background-color: aqua;
+    font-size: 30px;
+    color: blueviolet;
+
+}
+.s{
+    text-align: center;
+    background: red;
+    color: chartreuse;
+    font-size: 40px;
+    
+
+}
